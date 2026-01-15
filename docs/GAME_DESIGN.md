@@ -18,7 +18,11 @@
 8. [Personagens](#-personagens)
 9. [Combos Secretos](#-combos-secretos)
 10. [Sistema Anti-Rage Quit](#-sistema-anti-rage-quit)
-11. [Assets](#-assets)
+11. [Ranking Mundial por País](#-ranking-mundial-por-país)
+12. [Eventos Sazonais](#-eventos-sazonais)
+13. [Ecossistema Auto-Sustentável](#-ecossistema-auto-sustentável)
+14. [Plano de Atualizações](#-plano-de-atualizações)
+15. [Assets](#-assets)
 
 ---
 
@@ -40,6 +44,20 @@ Jogo de pênaltis estilo cartoon com eventos aleatórios que dão vida ao cenár
 | ⬜ Quadrado | 🥅 Trave real |
 | ⚪ Bola simples | ⚽ Bola cartoon |
 | 😐 Sem graça | 🎲 Eventos, vida, surpresas |
+
+### Por que Penalty Shootout é ETERNO
+```
+✅ Partidas rápidas (2 min)
+✅ Eventos raros → YouTube
+✅ Cenários novos → Jogador volta
+✅ Ranking países → Guerra
+✅ Guerra → Viraliza
+✅ Viraliza → Cresce
+✅ Cresce → Mais guerra
+✅ Atualizações → Sempre fresco
+
+= JOGO SE RETROALIMENTA! ♾️
+```
 
 ---
 
@@ -104,15 +122,30 @@ Mas só 1-2 por partida!
 
 ### Tabela de Raridade
 
-| Cor | Raridade | % Chance | % Jogadores veem |
-|-----|----------|----------|------------------|
-| ⚪ | Comum | 70% | 100% |
-| 🟢 | Incomum | 20% | 80% |
-| 🔵 | Raro | 8% | 40% |
-| 🟣 | Épico | 1.5% | 15% |
-| 🟡 | Lendário | 0.4% | 5% |
-| 💎 | Mítico | 0.1% | 1% |
-| ⚫ | IMPOSSÍVEL | 0.01% | 0.1% |
+| Cor | Raridade | % Chance | % Jogadores veem | Onde vê? |
+|-----|----------|----------|------------------|----------|
+| ⚪ | Comum | 70% | 100% | 🎮 No jogo |
+| 🟢 | Incomum | 20% | 80% | 🎮 No jogo |
+| 🔵 | Raro | 8% | 40% | 🎮 No jogo |
+| 🟣 | Épico | 1.5% | 15% | 🎮 No jogo |
+| 🟡 | Lendário | 0.4% | 5% | 🎮/📺 Talvez YT |
+| 💎 | Mítico | 0.1% | 1% | 📺 SÓ no YT |
+| ⚫ | IMPOSSÍVEL | 0.01% | 0.1% | 📺 LENDA do YT |
+
+### Eventos Ultra Raros = YouTube
+```
+99.99% dos jogadores: 
+
+"Isso existe?" 🤔
+"Nunca vi..."
+"Será que é real?"
+
+*vai no YouTube*
+
+"MEU DEUS É REAL!"
+
+*volta pro jogo tentando*
+```
 
 ### Eventos Aleatórios - Praia
 
@@ -513,29 +546,348 @@ PERFIL DO JOGADOR:
 
 ---
 
-## 🎨 Assets
+## 🌍 Ranking Mundial por País
 
-### Asset Pack Principal
-- **Nome:** Creative Characters
-- **Fonte:** Unity Asset Store
-- **Estilo:** Cartoon/Low Poly
-- **Uso:** Personagens, cenário, objetos
+### Sistema
+```
+RANKING MUNDIAL DE GOLS:
 
-### Elementos do Cenário Praia
-| Elemento | Asset |
-|----------|-------|
-| 🌴 Palmeiras | Creative Characters |
-| 🏖️ Areia | Creative Characters |
-| 🌊 Mar | Creative Characters |
-| 🥅 Trave | Creative Characters |
-| ⚽ Bola | Creative Characters |
-| 👤 Personagens | Creative Characters |
-| 🐕🐈🦀 Animais | Creative Characters |
+🥇 🇧🇷 Brasil: 2.500.000 gols
+🥈 🇦🇷 Argentina: 2.100.000 gols
+🥉 🇲🇽 México: 1.800.000 gols
+4️⃣ 🇺🇸 EUA: 1.500.000 gols
+5️⃣ 🇵🇹 Portugal: 1.200.000 gols
+```
+
+### Guerra de Países
+```
+🇧🇷 Brasil lidera há 2 meses...
+
+Argentino no YouTube:
+
+"HERMANOS! 
+O Brasil tá ganhando há 2 MESES!
+ISSO NÃO PODE CONTINUAR!
+VAMOS TIRAR O TÍTULO DELES!"
+
+*10.000 argentinos entram no jogo*
+
+🇦🇷 "VAMOS CARAJO!"
+
+= ENGAJAMENTO INFINITO! ♾️
+```
+
+### O Ciclo da Guerra
+```
+┌─────────────────────────────────┐
+│                                 │
+│  🇧🇷 Brasil lidera              │
+│         ↓                       │
+│  🇦🇷 Argentina se organiza      │
+│         ↓                       │
+│  📺 YouTuber convoca           │
+│         ↓                       │
+│  🔥 Argentinos GRINDAM         │
+│         ↓                       │
+│  🇦🇷 Argentina passa!           │
+│         ↓                       │
+│  🇧🇷 Brasileiros descobrem      │
+│         ↓                       │
+│  📺 YouTuber BR convoca        │
+│         ↓                       │
+│  🔥 GUERRA INFINITA!           │
+│                                 │
+└─────────────────────────────────┘
+```
+
+### Features do Ranking
+
+| Feature | Descrição |
+|---------|-----------|
+| 🌍 Ranking por país | Gols totais do país |
+| 📊 Ranking mensal | Reseta todo mês |
+| 🏆 Troféu do mês | País vencedor ganha troféu |
+| 🎽 Skin exclusiva | Só quem jogou no mês vencedor |
+| 📢 Notificação | "Brasil perdeu o 1º lugar!" |
+
+### Recompensas do País Vencedor
+```
+🏆 PAÍS DO MÊS: 🇧🇷 BRASIL!
+
+Todos os jogadores BR ganham:
+├── 🎽 Skin exclusiva "Campeão Junho"
+├── 🏅 Medalha "Defendeu o Brasil"
+├── ✨ Borda dourada no perfil
+└── 🎲 +10% chance eventos raros (por 1 semana)
+```
+
+### Skins de Países
+
+| País | Camisa |
+|------|--------|
+| 🇧🇷 Brasil | Amarela/Verde |
+| 🇦🇷 Argentina | Azul/Branca |
+| 🇫🇷 França | Azul |
+| 🇩🇪 Alemanha | Branca/Preta |
+| 🇵🇹 Portugal | Vermelha |
+| 🇪🇸 Espanha | Vermelha |
+| 🇬🇧 Inglaterra | Branca |
+| 🇲🇽 México | Verde |
+| ... | Todos os países! |
 
 ---
 
-## 📅 Próximos Passos
+## 🎄 Eventos Sazonais
 
+### Calendário de Eventos
+
+| Data | Evento | Conteúdo Especial |
+|------|--------|-------------------|
+| 🏆 Copa 2026 | Copa do Mundo | 🏟️ Cenário Estádio + Bandeiras |
+| 🎄 Dezembro | Natal | ❄️ Cenário Neve + Papai Noel |
+| 🎃 Outubro | Halloween | 🍂 Floresta Outono + Monstros |
+| 🐰 Abril | Páscoa | 🐰 Coelho + Ovos |
+| ⚽ Champions | Liga dos Campeões | ⭐ Evento Clubes |
+| 🏖️ Verão | Praia Especial | 🌴 Eventos exclusivos |
+
+### Evento Copa do Mundo
+```
+📢 "COPA DO MUNDO 2026!"
+
+🆕 Por tempo LIMITADO:
+
+🏟️ Cenário: ESTÁDIO (exclusivo!)
+🎽 Skins: Camisas dos PAÍSES
+🏅 Medalhas: Copa especiais
+🎲 Eventos: Torcida, bandeiras, hino
+
+⏱️ Só durante a Copa REAL!
+```
+
+### Por que Eventos Sazonais?
+
+| Benefício | Explicação |
+|-----------|------------|
+| 📈 Hype grátis | Copa tá na mídia = jogo também |
+| 🔄 Jogador volta | "Tem evento da Copa!" |
+| 💰 Monetização | Skins de países = $$$ |
+| ⏱️ Urgência | "Só durante a Copa!" = FOMO |
+| 🌍 Global | Todo mundo quer seu país |
+
+---
+
+## 🔄 Ecossistema Auto-Sustentável
+
+### O Jogo se Retroalimenta
+```
+         ┌─────────────────┐
+         │                 │
+         ▼                 │
+    🎮 JOGA               │
+         │                 │
+         ▼                 │
+    🎲 EVENTO RARO        │
+         │                 │
+         ▼                 │
+    📺 YOUTUBE            │
+         │                 │
+         ▼                 │
+    👀 NOVOS JOGADORES    │
+         │                 │
+         ▼                 │
+    🌍 RANKING PAÍSES     │
+         │                 │
+         ▼                 │
+    🔥 GUERRA BR x AR     │
+         │                 │
+         ▼                 │
+    📺 MAIS YOUTUBE       │
+         │                 │
+         ▼                 │
+    👀 MAIS JOGADORES     │
+         │                 │
+         └─────────────────┘
+         
+    = LOOP INFINITO! ♾️
+```
+
+### Cada Parte Alimenta a Outra
+
+| Elemento | Alimenta |
+|----------|----------|
+| 🎲 Eventos raros | → 📺 YouTube |
+| 📺 YouTube | → 👀 Novos jogadores |
+| 👀 Novos jogadores | → 🌍 Ranking países |
+| 🌍 Ranking países | → 🔥 Guerra BR x AR |
+| 🔥 Guerra | → 📺 Mais YouTube |
+| 📺 Mais YouTube | → 👀 Mais jogadores |
+| 🔄 Cenário novo | → 🤔 Curiosidade |
+| 🤔 Curiosidade | → 🎮 Jogador volta |
+| 🎮 Jogador volta | → 🎲 Descobre eventos |
+
+### Você NÃO Precisa Fazer Nada
+```
+Marketing? JOGADORES fazem!
+Conteúdo? YOUTUBERS fazem!
+Engajamento? RIVALIDADE faz!
+Retenção? EVENTOS fazem!
+
+Você só faz:
+✅ Jogo bom
+✅ Atualização de vez em quando
+
+O RESTO SE ALIMENTA SOZINHO!
+```
+
+### Vídeos que Vão Existir
+
+| Título | Views Estimadas |
+|--------|-----------------|
+| "TODOS os eventos LENDÁRIOS!" | 100k |
+| "Evento IMPOSSÍVEL - É REAL?!" | 500k |
+| "50 GOLS SEGUIDOS - Buraco Negro!" | 1M |
+| "100 GOLS SEGUIDOS - O QUE ACONTECE?!" | 2M |
+| "TODOS os eventos SECRETOS do jogo" | 1M |
+| 🇦🇷 "TIRAMOS O BRASIL DO TOPO!" | 2M |
+| 🇧🇷 "BRASIL RECUPERA O 1º LUGAR!" | 3M |
+
+---
+
+## 📅 Plano de Atualizações
+
+### Modelo de Jogo Eterno
+```
+LANÇAMENTO:
+├── 🏖️ Cenário: Praia
+├── 👤 5 Personagens
+├── 🎲 50 Eventos
+└── 🏅 20 Medalhas
+
+ATUALIZAÇÃO 1 (1 mês depois):
+├── ❄️ Cenário: NEVE!
+├── 👤 +5 Personagens
+├── 🎲 +30 Eventos novos
+└── 🏅 +10 Medalhas
+
+ATUALIZAÇÃO 2 (2 meses depois):
+├── 🌲 Cenário: FLORESTA!
+├── 👤 +5 Personagens
+├── 🎲 +30 Eventos novos
+└── 🏅 +10 Medalhas
+
+...e assim por diante! ♾️
+```
+
+### Cronograma de Cenários
+
+| Mês | Atualização | Conteúdo |
+|-----|-------------|----------|
+| 🚀 Lançamento | 🏖️ Praia | Base do jogo |
+| Mês 1 | ❄️ Neve | Natal 🎄 |
+| Mês 2 | 🌲 Floresta Verde | Primavera |
+| Mês 3 | 🍂 Floresta Outono | Halloween 🎃 |
+| Mês 4 | 🏜️ Deserto | Novo bioma |
+| Mês 5 | 🌙 Noite/Lua | Novo horário |
+| Mês 6 | 🏟️ Estádio | Copa do Mundo |
+| ... | ♾️ | Infinito |
+
+### Por que Jogador Volta?
+```
+📢 Notificação: "NOVO CENÁRIO: NEVE! ❄️"
+
+Jogador: "Hmm..."
+
+Jogador: "Quais eventos tem?"
+Jogador: "Será que tem Papai Noel?"
+Jogador: "Será que tem pinguim?"
+Jogador: "Será que tem evento LENDÁRIO novo?"
+
+Jogador: *abre o jogo*
+
+🎮 VOLTOU!
+```
+
+### Sistema de Descoberta
+```
+CENÁRIO: ❄️ NEVE
+
+Eventos descobertos: 12/30
+
+⚪ Pinguim          ✅ Descoberto!
+⚪ Boneco de neve   ✅ Descoberto!
+🟢 Esquiador       ✅ Descoberto!
+🟢 Rena            ✅ Descoberto!
+🔵 ???             🔒 Não descoberto
+🔵 ???             🔒 Não descoberto
+🟣 ???             🔒 Não descoberto
+🟡 ???             🔒 Não descoberto
+💎 ???             🔒 Não descoberto
+
+"O QUE É O EVENTO 💎?!?!"
+
+*joga mais 500 partidas*
+```
+
+---
+
+## 🎨 Assets
+
+### Estratégia de Assets
+```
+IMPORTANTE:
+
+Todos os assets devem ser da MESMA EMPRESA
+ou do MESMO ESTILO!
+
+Por quê?
+✅ Tudo combina visualmente
+✅ Menos trabalho de ajuste
+✅ Visual consistente
+✅ Eventos ficam naturais
+```
+
+### Critérios para Escolha
+
+| Critério | Por quê |
+|----------|---------|
+| 🎨 Mesmo estilo | Low Poly, Cartoon, Realista - escolhe UM |
+| 📏 Mesma escala | Personagem não pode ser gigante vs cenário |
+| 🎨 Mesmas cores | Paleta consistente |
+| 🏢 Mesma empresa | IDEAL! Já combina tudo |
+| 📦 Pack grande | Quanto mais coisa no pack, menos dor de cabeça |
+
+### Assets Encontrados
+
+| Pack | Conteúdo | Preço | Status |
+|------|----------|-------|--------|
+| 🐾 Animals Free | 7 Animais | FREE ✅ | Avaliando |
+| 🧙 Fantasy Free | Natal + Fantasia | FREE ✅ | Avaliando |
+| 👤 Creative Characters | Personagens | $79 | Avaliando |
+| 🌴 Vegetation Pack | 4 Cenários | $79 | Avaliando |
+
+### Empresas com Grandes Packs
+
+| Empresa | Conhecido por | Onde |
+|---------|---------------|------|
+| 🎨 Synty Studios | POLYGON (Low Poly GIGANTE) | Unity/Unreal |
+| 🎨 Kenney | Packs FREE enormes | Itch.io |
+| 🎨 Creative Characters | Low Poly Cartoon | Unity |
+| 🎨 Quaternius | Low Poly FREE | Itch.io |
+| 🎨 Kay Lousberg | Low Poly FREE | Itch.io |
+
+### Links Úteis
+
+- [Synty Studios - Unity](https://assetstore.unity.com/publishers/5217)
+- [Kenney Assets](https://kenney.nl/assets)
+- [Quaternius](https://quaternius.itch.io/)
+- [Kay Lousberg](https://kaylousberg.itch.io/)
+
+---
+
+## 📋 Próximos Passos
+
+- [ ] Finalizar pesquisa de assets
+- [ ] Escolher pack principal (mesma empresa/estilo)
 - [ ] Implementar cenário base da praia
 - [ ] Sistema de eventos aleatórios
 - [ ] Sistema de sequências entre partidas
@@ -543,8 +895,12 @@ PERFIL DO JOGADOR:
 - [ ] Personagens e skins
 - [ ] Combos secretos
 - [ ] Sistema anti-rage quit
+- [ ] Ranking por país
 - [ ] Sons e música
 
 ---
 
 > Documento vivo - será atualizado conforme o desenvolvimento
+> 
+> **FILOSOFIA DO JOGO:**
+> O jogo se retroalimenta! Eventos raros geram YouTube, YouTube traz jogadores, jogadores criam ranking, ranking cria guerras entre países, guerras geram mais YouTube... ♾️
